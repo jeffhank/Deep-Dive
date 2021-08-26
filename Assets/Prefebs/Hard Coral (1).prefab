@@ -1,0 +1,607 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2763204024224599163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204024224599160}
+  - component: {fileID: 2763204024224599161}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204024224599160
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024224599163}
+  m_LocalRotation: {x: 0.012782207, y: 0.09782713, z: 0.117250405, w: 0.9881897}
+  m_LocalPosition: {x: -0.269, y: 1.816, z: -0.544}
+  m_LocalScale: {x: 0.27549785, y: 2.7491622, z: 0.2771787}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0.133, y: 11.323001, z: 13.5460005}
+--- !u!114 &2763204024224599161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024224599163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.322
+  color: {r: 0.45603418, g: 0.5283019, b: 0.5144775, a: 1}
+  attrs: {x: -0.141, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 9
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204024231728578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204024231728579}
+  - component: {fileID: 2763204024231728576}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204024231728579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024231728578}
+  m_LocalRotation: {x: 0.11049185, y: -0.00799948, z: 0.13878146, w: 0.9841074}
+  m_LocalPosition: {x: 0, y: 1.603, z: 0}
+  m_LocalScale: {x: 0.41736406, y: 4.1648293, z: 0.41991046}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 12.691001, y: 0.87700003, z: 16.152}
+--- !u!114 &2763204024231728576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024231728578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.36199996
+  color: {r: 0.31696856, g: 0.25178, b: 0.4339623, a: 1}
+  attrs: {x: 0, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 0
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204024279104148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204024279104149}
+  - component: {fileID: 2763204024279104146}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204024279104149
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024279104148}
+  m_LocalRotation: {x: -0.08657752, y: 0.03504497, z: -0.09274374, w: 0.99129957}
+  m_LocalPosition: {x: 0.56999993, y: 1.64, z: -0.5900002}
+  m_LocalScale: {x: 0.41736406, y: 4.1648293, z: 0.41991046}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: -9.5060005, y: 4.9760003, z: -11.104}
+--- !u!114 &2763204024279104146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024279104148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.342
+  color: {r: 0.1882353, g: 0.19163856, b: 0.35686275, a: 1}
+  attrs: {x: 0, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 2
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204024378806495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204024378806492}
+  - component: {fileID: 2763204024378806493}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204024378806492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024378806495}
+  m_LocalRotation: {x: -0.07234991, y: 0.0099591585, z: -0.047994036, w: 0.9961741}
+  m_LocalPosition: {x: 0.092000075, y: 1.565, z: -0.61700004}
+  m_LocalScale: {x: 0.27549785, y: 2.7491622, z: 0.2771787}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: -8.232, y: 1.5510001, z: -5.6280003}
+--- !u!114 &2763204024378806493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024378806495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.322
+  color: {r: 0.16487183, g: 0.3679245, b: 0.3544409, a: 1}
+  attrs: {x: -0.141, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 8
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204024681256434
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204024681256435}
+  - component: {fileID: 2763204024681256432}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204024681256435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024681256434}
+  m_LocalRotation: {x: -0.21446574, y: -0.008198887, z: 0.05316578, w: 0.97524905}
+  m_LocalPosition: {x: 0.00000013783574, y: 1.59, z: -0.8700002}
+  m_LocalScale: {x: 0.41736406, y: 4.1648293, z: 0.41991046}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: -24.673, y: -2.447, z: 6.7760005}
+--- !u!114 &2763204024681256432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024681256434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.30899996
+  color: {r: 0.2716714, g: 0.3490566, b: 0.32428348, a: 1}
+  attrs: {x: 0, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 3
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204024684471596
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204024684471597}
+  - component: {fileID: 2763204024684471594}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204024684471597
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024684471596}
+  m_LocalRotation: {x: 0.106557705, y: -0.07369044, z: -0.027284656, w: 0.99119663}
+  m_LocalPosition: {x: 0.000000074505806, y: 1.603, z: 0.88000005}
+  m_LocalScale: {x: 0.41736406, y: 4.1648293, z: 0.41991046}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 11.959001, y: -8.932, z: -4.091}
+--- !u!114 &2763204024684471594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204024684471596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.296
+  color: {r: 0.23422572, g: 0.15499288, b: 0.254717, a: 1}
+  attrs: {x: 0, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 1
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204025359010011
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204025359010009}
+  - component: {fileID: 2763204025359010008}
+  m_Layer: 0
+  m_Name: Hard Coral (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204025359010009
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204025359010011}
+  m_LocalRotation: {x: -0, y: -0.68815416, z: -0, w: 0.72556454}
+  m_LocalPosition: {x: -6.52, y: 0, z: 2.95}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2763204024231728579}
+  - {fileID: 2763204024684471597}
+  - {fileID: 2763204024279104149}
+  - {fileID: 2763204024681256435}
+  - {fileID: 2763204026239045680}
+  - {fileID: 2763204026222267415}
+  - {fileID: 2763204025452143561}
+  - {fileID: 2763204025818015019}
+  - {fileID: 2763204024378806492}
+  - {fileID: 2763204024224599160}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -86.968, z: 0}
+--- !u!114 &2763204025359010008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204025359010011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf51d6fd97243134dbf9d48bd3107215, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  customMaterial: {fileID: 0}
+  forceUpdate: 0
+  instanceOf: {fileID: 0}
+  needsUpdate: 0
+  meshNormalSmooth: 60
+  clayxelDetail: 88
+  chunksX: 1
+  chunksY: 1
+  chunksZ: 1
+  material: {fileID: 0}
+  castShadows: 1
+  receiveShadows: 1
+  storeAssetPath: 
+  frozen: 0
+  clayObjectsOrderLocked: 1
+  autoBounds: 0
+  renderMode: 0
+  retopoApplied: 0
+  retopoMaxVerts: -1
+  claymationAnimClip: {fileID: 0}
+  claymationStartFrame: 0
+  claymationEndFrame: 0
+--- !u!1 &2763204025452143560
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204025452143561}
+  - component: {fileID: 2763204025452143558}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204025452143561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204025452143560}
+  m_LocalRotation: {x: 0.030753244, y: -0.008139521, z: -0.05896321, w: 0.9977532}
+  m_LocalPosition: {x: 0.45, y: 1.58, z: 0.72}
+  m_LocalScale: {x: 0.27549785, y: 2.7491622, z: 0.2771787}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 3.463, y: -1.141, z: -6.7990003}
+--- !u!114 &2763204025452143558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204025452143560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.322
+  color: {r: 0.15686277, g: 0.18882325, b: 0.35686275, a: 1}
+  attrs: {x: -0.141, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 6
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204025818015018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204025818015019}
+  - component: {fileID: 2763204025818015016}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204025818015019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204025818015018}
+  m_LocalRotation: {x: 0.018131588, y: 0.0016554485, z: 0.17271395, w: 0.9848038}
+  m_LocalPosition: {x: -0.536, y: 1.693, z: 0.443}
+  m_LocalScale: {x: 0.27549785, y: 2.7491622, z: 0.2771787}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 2.0140002, y: 0.546, z: 19.904001}
+--- !u!114 &2763204025818015016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204025818015018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.322
+  color: {r: 0.18050496, g: 0.23584908, b: 0.15908688, a: 1}
+  attrs: {x: -0.141, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 7
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204026222267414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204026222267415}
+  - component: {fileID: 2763204026222267412}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204026222267415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204026222267414}
+  m_LocalRotation: {x: -0.06811746, y: 0.00082138163, z: 0.13410875, w: 0.98862237}
+  m_LocalPosition: {x: -0.64000016, y: 1.38, z: -0.3300001}
+  m_LocalScale: {x: 0.41736406, y: 4.1648293, z: 0.41991046}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: -7.7530003, y: -0.96300006, z: 15.516001}
+--- !u!114 &2763204026222267412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204026222267414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.46599993
+  color: {r: 0.16905482, g: 0.2735849, b: 0.16909762, a: 1}
+  attrs: {x: 0, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 5
+  numSolids: 1
+  splineSubdiv: 3
+--- !u!1 &2763204026239045683
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2763204026239045680}
+  - component: {fileID: 2763204026239045681}
+  m_Layer: 0
+  m_Name: clay_cylinder+
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2763204026239045680
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204026239045683}
+  m_LocalRotation: {x: 0.03585987, y: -0.017301468, z: -0.0431907, w: 0.9982732}
+  m_LocalPosition: {x: 0.715, y: 1.618, z: 0.286}
+  m_LocalScale: {x: 0.41736406, y: 4.1648293, z: 0.41991046}
+  m_Children: []
+  m_Father: {fileID: 2763204025359010009}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 4.02, y: -2.1620002, z: -5.031}
+--- !u!114 &2763204026239045681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2763204026239045683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7abbfd96705db9d42bf2ff005c1a5a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blend: 0.322
+  color: {r: 0.30315056, g: 0.2823959, b: 0.3584906, a: 1}
+  attrs: {x: 0, y: -0.074999996, z: 0.4383, w: 0}
+  primitiveType: 2
+  mode: 0
+  offsetter: {fileID: 0}
+  splinePoints: []
+  clayObjectId: 4
+  numSolids: 1
+  splineSubdiv: 3
